@@ -1,0 +1,13 @@
+/*
+Custom Css
+*/
+
+.card-img-top{
+  height: 340px;
+  object-fit: cover;
+  object-position: 0 0;
+}
+
+.example-card{
+  border: 3px dashed ;
+}
